@@ -1,0 +1,14 @@
+{
+  "name": "Nova Bastion",
+  "short_name": "Nova Bastion",
+  "description": "Portrait sci-fi wall defense. Hold the keep against the Hollow Circuit.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071422",
+  "theme_color": "#071422",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}

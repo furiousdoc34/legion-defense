@@ -1,0 +1,10 @@
+{
+  "name": "nova-bastion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/sim.test.mjs",
+    "start": "python3 -m http.server 4173"
+  },
+  "description": "Nova Bastion, a portrait sci-fi wall-defense game."
+}
